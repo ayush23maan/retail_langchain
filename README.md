@@ -1,2 +1,2 @@
 # langchain
-Tutorial for langchain LLM library
+Retail natural language query using langchain
